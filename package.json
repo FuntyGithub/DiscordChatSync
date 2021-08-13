@@ -1,0 +1,12 @@
+{
+    "name": "ChatSync",
+    "version": "1.0.0",
+    "description": "A bot to sync discord chats",
+    "author": "Funty",
+    "main": "index.js",
+    "dependencies": {
+        "discord.js": "^13.0.1",
+        "fs": "0.0.1-security",
+        "node.js": "0.0.1-security"
+    }
+}
